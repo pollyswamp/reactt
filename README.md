@@ -3,5 +3,5 @@ cd backend
 node server.js
 
 запуск фронтенда:
-cd polina-portfolio-frontend
+cd frontend
 npm start
